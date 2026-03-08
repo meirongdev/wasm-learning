@@ -1,0 +1,16 @@
+# Rust build artifacts
+/target/
+
+# wasm-pack build output
+/pkg/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Local environment files
+.env
+.env.*
